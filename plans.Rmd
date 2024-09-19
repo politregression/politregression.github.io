@@ -1,0 +1,40 @@
+---
+title: "Материалы"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: united
+---
+# Регрессионный анализ: продолжение, 2024
+ 
+### Обозначения
+ 
+`r  shiny::icon("scroll")` -- презентация / конспект занятия / семинарский листочек
+ 
+`r  shiny::icon("readme")` -- Reading
+ 
+`r  shiny::icon("desktop")` -- материалы для практикума (данные, код)
+ 
+`r  shiny::icon("pencil")` -- задание 
+ 
+## Занятие 1
+ 
+Тема: О чем курс и каковы правила игры? Повторение: парная линейная регрессия
+  
+`r  shiny::icon("scroll")` <a href="reg_intro_2024.pdf" title=>Презентация-введение</a> 
+
+`r  shiny::icon("scroll")` <a href="OLS_notes.pdf" title=>МНК-оценки: случай парной линейной регрессии</a> 
+
+`r  shiny::icon("scroll")` <a href="reg_seminar1_2024.pdf" title=>Семинар 1</a> 
+
+`r  shiny::icon("scroll")` <a href="reg_hw1_2024.pdf" title=>Домашнее задание 1</a> 
+
+## Занятие 2
+ 
+Тема: множественная линейная регрессия: спецификация, выведение формулы для получения оценок коэффициентов, допущения относительно ошибок
+  
+`r  shiny::icon("scroll")` <a href="reg_seminar2_2024.pdf" title=>Семинар 2</a> 
+
+
