@@ -37,7 +37,7 @@ output:
 
 `r  shiny::icon("desktop")` <a href="reg_lab1_2024.ipynb" title=>Практикум 1</a> 
 
-`r  shiny::icon("desktop")` <a href="reg_lab1.dta" title=>Данные к практикуму 1</a> 
+`r  shiny::icon("desktop")` <a href="lab1.dta" title=>Данные к практикуму 1</a> 
   
 `r  shiny::icon("scroll")` <a href="reg_seminar2_2024.pdf" title=>Семинар 2</a> 
 
