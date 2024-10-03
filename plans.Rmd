@@ -43,6 +43,8 @@ output:
 
 `r  shiny::icon("scroll")` <a href="reg_hw2_2024.pdf" title=>Домашнее задание 2</a> 
 
+`r  shiny::icon("scroll")` <a href="reg_hw2_solution.pdf" title=>Решение домашнего задания 2</a> 
+
 ## Занятие 3
  
 Тема: множественная линейная регрессия: спецификация
@@ -63,4 +65,7 @@ output:
 `r  shiny::icon("readme")` <a href="https://disk.yandex.ru/i/ufuj_2Ks2FglpQ" title=> Franzese, Kam, pp. 19 - 39 </a>
 
 Подготовиться к проверочной работе 1
+
+
+
 
