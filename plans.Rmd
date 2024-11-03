@@ -43,7 +43,7 @@ output:
 
 `r  shiny::icon("scroll")` <a href="reg_hw2_2024.pdf" title=>Домашнее задание 2</a> 
 
-`r  shiny::icon("scroll")` <a href="reg_hw2_solution.pdf" title=>Решение домашнего задания 2</a> 
+`r  shiny::icon("scroll")` <a href="reg_hw2_solution_.pdf" title=>Решение домашнего задания 2</a> 
 
 ## Занятие 3
  
