@@ -67,5 +67,48 @@ output:
 Подготовиться к проверочной работе 1
 
 
+## Занятие 4
+ 
+Тема: переменные взаимодействия (практикум), мультиколлинеарность 
+
+`r  shiny::icon("desktop")` <a href="reg_lab2_2024.ipynb" title=>Практикум 2</a>
+
+## Занятие 5
+ 
+Тема: метод главных компонент (в контексте работы с мультиколлинеарностью), гребневая регрессия 
+
+`r  shiny::icon("desktop")` <a href="reg_lab3_1_2024_.ipynb" title=>Практикум 3 (1) </a>
+
+`r  shiny::icon("desktop")` <a href="reg_lab3_2_2024_.ipynb" title=>Практикум 3 (2) </a>
+
+`r  shiny::icon("desktop")` <a href="reg_lab3_2.dta" title=>Данные к практикуму 3 (2) </a>
+
+`r  shiny::icon("scroll")` <a href="PCA_lecture.pdf" title=>МГК презентация</a> 
+
+## Занятие 6
+ 
+Тема: гетероскедастичность 
+
+## Занятие 7
+ 
+Тема: гетероскедастичность, нетипичные наблюдения 
+
+`r  shiny::icon("scroll")` <a href="reg_seminar_solution.pdf" title=>Семинарский лист с решением</a> 
+
+`r  shiny::icon("desktop")` <a href="reg_lab4.ipynb" title=> Практикум 4</a>
+
+## Занятие 8
+ 
+Тема: подготовка к контрольной работе 
+
+`r  shiny::icon("scroll")` <a href="reg_practice.pdf" title=> Задачи для тренировки </a> 
+
+
+
+
+
+
+
+
 
 
