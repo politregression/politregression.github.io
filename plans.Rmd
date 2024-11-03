@@ -81,7 +81,7 @@ output:
 
 `r  shiny::icon("desktop")` <a href="reg_lab3_2_2024_.ipynb" title=>Практикум 3 (2) </a>
 
-`r  shiny::icon("desktop")` <a href="reg_lab3_2.dta" title=>Данные к практикуму 3 (2) </a>
+`r  shiny::icon("desktop")` <a href="lab3_2.dta" title=>Данные к практикуму 3 (2) </a>
 
 `r  shiny::icon("scroll")` <a href="PCA_lecture.pdf" title=>МГК презентация</a> 
 
@@ -95,7 +95,7 @@ output:
 
 `r  shiny::icon("scroll")` <a href="reg_seminar_solution.pdf" title=>Семинарский лист с решением</a> 
 
-`r  shiny::icon("desktop")` <a href="reg_lab4.ipynb" title=> Практикум 4</a>
+`r  shiny::icon("desktop")` <a href="reg_lab4_2024.ipynb" title=> Практикум 4</a>
 
 ## Занятие 8
  
