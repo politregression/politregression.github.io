@@ -103,6 +103,38 @@ output:
 
 `r  shiny::icon("scroll")` <a href="reg_practice.pdf" title=> Задачи для тренировки </a> 
 
+## Занятие 9
+ 
+Тема: контрольная работа; эндогенность в регрессионной модели: введение
+
+`r  shiny::icon("scroll")` <a href="reg_endogeneity_intro.pdf" title=>Эндогенность: введение</a> 
+
+`r  shiny::icon("scroll")` <a href="reg_causalinference.pdf" title=>Каузальный вывод. Базовые понятия</a> 
+
+
+## Занятие 10
+ 
+Тема: метод DiD
+
+`r  shiny::icon("scroll")` <a href="DiD_lecture.pdf" title=>Метод DiD</a> 
+
+`r  shiny::icon("desktop")` <a href="reg_lab5_2024.ipynb" title=> Практикум 5</a>
+
+`r  shiny::icon("desktop")` <a href="DiDdata.dta" title=> DiDdata</a>
+
+`r  shiny::icon("scroll")` <a href="reg_seminar5_2024_.pdf" title=>Семинарский лист 5</a> 
+
+
+## Занятие 11
+ 
+Тема: меры качества модели, кросс-валидация, информационные критерии, тесты для сравнения вложенных моделей
+
+`r  shiny::icon("desktop")` <a href="reg_lab6_2024_.ipynb" title=> Практикум 6</a>
+
+
+
+
+
 
 
 
