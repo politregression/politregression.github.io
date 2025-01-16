@@ -1,6 +1,6 @@
 output_dir: "."
 navbar:
-  title: "Регрессионный анализ: продолжение"
+  title: "Регрессионный анализ"
   left:
     - text: "Welcome"
       href: index.html
