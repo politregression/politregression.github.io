@@ -25,4 +25,11 @@ output:
   
 `r  shiny::icon("scroll")` <a href="RS_reg_intro.pdf" title=>Презентация-введение</a> 
 
+`r  shiny::icon("scroll")` <a href="RS_reg_notes_1.pdf" title=>Конспект</a> 
+
 `r  shiny::icon("scroll")` <a href="RS_reg_seminar1.pdf" title=>Семинар 1</a> 
+
+Домашнее задание (для тренировки): 
+
+`r  shiny::icon("scroll")` <a href="RS_reg_hw1.pdf" title=>Домашнее задание 1</a> 
+
