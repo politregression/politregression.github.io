@@ -37,6 +37,12 @@ output:
 
 Тема: множественная линейная регрессия: спецификация модели, выбор контрольных переменных, оценивание параметров
 
+`r  shiny::icon("desktop")` <a href="RS_reg_lab_1.ipynb" title=>Практикум 1</a> 
+
+`r  shiny::icon("desktop")` <a href="lab1.dta" title=>Данные lab1.dta</a> 
+
+`r  shiny::icon("scroll")` <a href="reg_seminar2_2025.pdf" title=>Семинарский лист 2</a> 
+
 `r  shiny::icon("scroll")` <a href="RS_reg_notes_2.pdf" title=>Конспект</a> 
 
 Домашнее задание: 
@@ -52,3 +58,53 @@ output:
 `r  shiny::icon("scroll")` <a href="reg_seminar3.pdf" title=>Семинарский лист 3</a> 
 
 `r  shiny::icon("scroll")` <a href="reg_seminar3_solution.pdf" title=>Решение семинарского листка</a> 
+
+`r  shiny::icon("desktop")` <a href="RS_reg_lab_2.ipynb" title=>Практикум 2</a> 
+
+## Занятие 4
+
+Тема: метод разность разностей
+
+`r  shiny::icon("scroll")` <a href="DiD_lecture.pdf" title=>Лекция. DiD</a> 
+
+`r  shiny::icon("scroll")` <a href="reg_seminar4_2025.pdf" title=>Семинарский лист 4</a> 
+
+`r  shiny::icon("desktop")` <a href="RS_reg_lab_3.ipynb" title=>Практикум 3</a> 
+
+`r  shiny::icon("desktop")` <a href="DiDdata.dta" title=>DiDdata.dta</a> 
+
+`r  shiny::icon("scroll")` <a href="reg_test1_demo.pdf" title=>Демо-версия проверочной работы 1</a> 
+
+## Занятие 5
+
+Тема: проверочная работа; метод синтетического контроля 
+
+`r  shiny::icon("desktop")` <a href="RS_reg_lab_4.ipynb" title=>Практикум 4</a> 
+
+## Занятие 6
+
+Тема: гетероскедастичность, нетипичные наблюдения
+
+`r  shiny::icon("scroll")` <a href="heteroscedasticity_lecture.pdf" title=>Лекция. Гетероскедастичность. Нетипичные наблюдения</a>
+
+`r  shiny::icon("scroll")` <a href="reg_seminar5_2025.pdf" title=>Семинарский лист 5</a> 
+
+## Занятие 7
+
+Тема: гетероскедастичность, нетипичные наблюдения (продолжение)
+ 
+`r  shiny::icon("pencil")` <a href="reg_lab1.pdf" title=>Задание для практикума</a> 
+
+## Занятие 8
+
+Тема: мультиколлинеарность, подготовка к контрольной работе 
+ 
+`r  shiny::icon("scroll")` <a href="reg_multicollinearity.pdf" title=>Лекция. Мультиколлинеарность</a>
+
+`r  shiny::icon("desktop")` <a href="RS_reg_lab_VIF.ipynb" title=>Практикум 6</a> 
+
+`r  shiny::icon("scroll")` <a href="reg_midterm_demo.pdf" title=>Демо-версия КР</a>
+
+
+
+
