@@ -89,6 +89,8 @@ output:
 
 `r  shiny::icon("scroll")` <a href="reg_seminar5_2025.pdf" title=>Семинарский лист 5</a> 
 
+`r  shiny::icon("desktop")` <a href="RS_reg_lab5.ipynb" title=>Практикум 5</a>  
+
 ## Занятие 7
 
 Тема: гетероскедастичность, нетипичные наблюдения (продолжение)
