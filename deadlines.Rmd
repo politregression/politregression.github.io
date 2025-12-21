@@ -8,6 +8,7 @@ title: "Важные даты"
 21.10.2025 | ДЗ 2 (сдаваемое) | `r  shiny::icon("scroll")` <a href="reg_hw2_submission.pdf" title=>Условие ДЗ 2</a>
 12.11.2025 | контрольная работа | `r  shiny::icon("scroll")` <a href="RS_midterm_LO.pdf" title=>Learning Outcomes</a>
 16.12.2025 | ДЗ 3 (сдаваемое) | `r  shiny::icon("scroll")` <a href="reg_hw3_2025.pdf" title=>Условие ДЗ 3</a>
+23.12.2025 | Экзамен | `r  shiny::icon("scroll")` <a href="reg_LO_exam.pdf" title=>Learning Outcomes к экзамену</a>
 
 
 
