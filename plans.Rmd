@@ -188,6 +188,8 @@ output:
 
 `r  shiny::icon("scroll")` <a href="RAPDC_lecture2_2026.pdf" title=>Лекция 2. Презентация</a> 
 
+`r  shiny::icon("scroll")` <a href="twoway.pdf" title=>Пояснение к модели twoways</a> 
+
 `r  shiny::icon("scroll")` <a href="RAPDC_seminar2_2026.pdf" title=>Семинарский лист 2</a> 
  
 `r  shiny::icon("desktop")` <a href="RAPDC_lab2_2026.ipynb" title=>Практикум 2</a>
@@ -201,6 +203,30 @@ output:
 Тема: подготовка к проверочной работе; модели с лагированными переменными: введение 
 
 `r  shiny::icon("readme")`  <a href="https://disk.yandex.ru/i/znuKw6vQ9_7Dsw" title=>Beck, Katz, 2011</a>  
+
+## Занятие 5
+
+Тема: проверочная работа; автокорреляция, модели с лагированными переменными 
+
+## Занятие 6
+
+Тема: автокорреляция, модели с лагированными переменными 
+
+## Занятие 7
+
+Тема: нестационарность данных; модели со смешанными эффектами: спецификация 
+
+`r  shiny::icon("desktop")` <a href="RAPDC_lab4_2026.ipynb" title=>Практикум 4</a>
+
+`r  shiny::icon("desktop")` <a href="daily_reddit_score.csv" title=>daily_reddit_score.csv</a>
+
+`r  shiny::icon("desktop")` <a href="passengers.csv" title=>passengers.csv</a>
+
+`r  shiny::icon("desktop")` <a href="moscow_temp.csv" title=>moscow_temp.csv</a>
+ 
+`r  shiny::icon("scroll")` <a href="RAPDC_lecture4_2026.pdf" title=>Лекция 4. Презентация</a> 
+
+`r  shiny::icon("scroll")` <a href="RAPDC_seminar3_2026.pdf" title=>Семинарский лист 3</a> 
  
 
 
