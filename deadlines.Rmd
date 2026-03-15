@@ -6,6 +6,7 @@ title: "Важные даты"
 -------- | -------- | --------------------------------------------------------
 10.02.2026 | Проверочная работа 1 | `r  shiny::icon("scroll")` <a href="RAPDC_LO1.pdf" title=>Learning Outcomes 1</a>
 17.02.2026 | ДЗ 1 (сдаваемое) | `r  shiny::icon("scroll")` <a href="RAPDC_hw1.pdf" title=>Условие ДЗ 1. РАПДК</a>
+31.03.2026 | ДЗ 2 (сдаваемое) | `r  shiny::icon("scroll")` <a href="RAPDC_hw2_2026.pdf" title=>Условие ДЗ 2. РАПДК</a>
 
 
 
