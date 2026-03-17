@@ -246,6 +246,17 @@ output:
 
 `r  shiny::icon("desktop")` <a href="nys.dta" title=>nys.dta</a>
 
+## Занятие 10
+
+Тема: подготовка к контрольной работе, повторение 
+
+Примеры исследований: 
+
+`r  shiny::icon("readme")`  <a href="https://disk.yandex.ru/i/WfIGh3iCklC16A" title=>Gelman et al., 2009</a>  
+
+`r  shiny::icon("readme")`  <a href="https://disk.yandex.ru/d/IbTak10V3WsSlw" title=>Pitts et al., 2025</a>
+
+
 
 
 
