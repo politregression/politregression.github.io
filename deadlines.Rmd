@@ -8,6 +8,8 @@ title: "Важные даты"
 17.02.2026 | ДЗ 1 (сдаваемое) | `r  shiny::icon("scroll")` <a href="RAPDC_hw1.pdf" title=>Условие ДЗ 1. РАПДК</a>
 24.03.2026 | контрольная работа | `r  shiny::icon("scroll")` <a href="RAPDC_midterm_demo_2026.pdf" title=>Демо-версия КР</a>; <a href="RAPDC_LO_midterm_2026.pdf" title=>Learning outcomes к КР</a>
 31.03.2026 | ДЗ 2 (сдаваемое) | `r  shiny::icon("scroll")` <a href="RAPDC_hw2_2026.pdf" title=>Условие ДЗ 2. РАПДК</a>
+19.04.2026 | ДЗ 3 (сдаваемое) | `r  shiny::icon("scroll")` <a href="RAPDC_hw3_2026.pdf" title=>Условие ДЗ 3. РАПДК</a>
+
 
 
 
