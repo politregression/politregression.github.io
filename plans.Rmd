@@ -266,6 +266,13 @@ output:
 
 `r  shiny::icon("scroll")` <a href="RAPDC_seminar4_2026.pdf" title=>Семинарский лист 4</a>
  
+## Занятие 12
+
+Тема: каузальный вывод: продолжение; мэтчинг
+
+`r  shiny::icon("scroll")` <a href="RAPDC_seminar5_2026.pdf" title=>Семинарский лист 5</a>
+ 
+ 
 
 
 
