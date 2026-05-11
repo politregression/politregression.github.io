@@ -271,7 +271,24 @@ output:
 Тема: каузальный вывод: продолжение; мэтчинг
 
 `r  shiny::icon("scroll")` <a href="RAPDC_seminar5_2026.pdf" title=>Семинарский лист 5</a>
+
+`r  shiny::icon("desktop")` <a href="RAPDC_lab7_2026.ipynb" title=>Практикум 7</a>
+
+`r  shiny::icon("desktop")` <a href="matching_lab.csv" title=>matching_lab.csv</a>
  
+## Занятие 13 
+
+Тема: мэтчинг; инструментальные переменные: диагностики 
+
+`r  shiny::icon("scroll")` <a href="RAPDC_lecture7_2026.pdf" title=>Лекция 7. Презентация</a> 
+
+`r  shiny::icon("desktop")` <a href="RAPDC_lab8_2026.ipynb" title=>Практикум 8</a>
+
+`r  shiny::icon("desktop")` <a href="IVdata.csv" title=>IVdata.csv</a>
+
+`r  shiny::icon("desktop")` <a href="IV_data2.Rda" title=>IV_data2.Rda</a>
+
+
  
 
 
