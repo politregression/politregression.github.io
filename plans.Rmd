@@ -280,13 +280,20 @@ output:
 
 Тема: мэтчинг; инструментальные переменные: диагностики 
 
-`r  shiny::icon("scroll")` <a href="RAPDC_lecture7_2026.pdf" title=>Лекция 7. Презентация</a> 
+`r  shiny::icon("scroll")` <a href="RAPDC_lecture7_IV_2026.pdf" title=>Лекция 7. Презентация</a> 
 
 `r  shiny::icon("desktop")` <a href="RAPDC_lab8_2026.ipynb" title=>Практикум 8</a>
 
 `r  shiny::icon("desktop")` <a href="IVdata.csv" title=>IVdata.csv</a>
 
 `r  shiny::icon("desktop")` <a href="IV_data2.Rda" title=>IV_data2.Rda</a>
+
+## Занятие 14
+
+Тема: метод разрывной регрессии (regression discontinuity design)
+
+`r  shiny::icon("scroll")` <a href="RAPDC_lecture8_2026.pdf" title=>Лекция 8. Презентация</a> 
+
 
 
  
