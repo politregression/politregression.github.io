@@ -294,6 +294,7 @@ output:
 
 `r  shiny::icon("scroll")` <a href="RAPDC_lecture8_2026.pdf" title=>Лекция 8. Презентация</a> 
 
+`r  shiny::icon("desktop")` <a href="RAPDC_lab9.ipynb" title=>Практикум 9</a>
 
 
  
