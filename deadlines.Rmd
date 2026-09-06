@@ -3,16 +3,6 @@ title: "Важные даты"
 ---
  
 Дата | Работа/мероприятие  | Содержание
--------- | -------- | --------------------------------------------------------
-10.02.2026 | Проверочная работа 1 | `r  shiny::icon("scroll")` <a href="RAPDC_LO1.pdf" title=>Learning Outcomes 1</a>
-17.02.2026 | ДЗ 1 (сдаваемое) | `r  shiny::icon("scroll")` <a href="RAPDC_hw1.pdf" title=>Условие ДЗ 1. РАПДК</a>
-24.03.2026 | контрольная работа | `r  shiny::icon("scroll")` <a href="RAPDC_midterm_demo_2026.pdf" title=>Демо-версия КР</a>; <a href="RAPDC_LO_midterm_2026.pdf" title=>Learning outcomes к КР</a>
-31.03.2026 | ДЗ 2 (сдаваемое) | `r  shiny::icon("scroll")` <a href="RAPDC_hw2_2026.pdf" title=>Условие ДЗ 2. РАПДК</a>
-19.04.2026 | ДЗ 3 (сдаваемое) | `r  shiny::icon("scroll")` <a href="RAPDC_hw3_2026.pdf" title=>Условие ДЗ 3. РАПДК</a>
-26.05.2026 | Проверочная работа 2 | `r  shiny::icon("scroll")` <a href="RAPDC_test2_demo_2026.pdf" title=>Демо-версия</a>; <a href="RAPDC_LO_test2_2026.pdf" title=>Learning Outcomes 2</a>
-03.06.2026 | ДЗ 4 (сдаваемое) | `r  shiny::icon("scroll")` <a href="RAPDC_hw4_2026.pdf" title=>Условие ДЗ 4. РАПДК</a>
-23.06.2026 | Экзаменационная работа | `r  shiny::icon("scroll")` <a href="RAPDC_exam_demo_2026.pdf" title=>Демо-версия</a>
-
 
 
 
