@@ -33,6 +33,20 @@ output:
 
 `r  shiny::icon("scroll")` <a href="reg_hw1.pdf" title=>Домашнее задание 1</a> 
 
+## Занятие 2
+ 
+Тема: множественная линейная регрессия: спецификация, оценивание параметров
+  
+`r  shiny::icon("desktop")` <a href="reg_lab1.ipynb" title=>Практикум 1</a> 
+
+`r  shiny::icon("desktop")` <a href="lab1.dta" title=>lab1.dta</a> 
+
+`r  shiny::icon("scroll")` <a href="reg_seminar2.pdf" title=>Семинарский лист 2</a> 
+
+Домашнее задание (для тренировки): 
+
+`r  shiny::icon("scroll")` <a href="reg_hw2.pdf" title=>Домашнее задание 2</a> 
+
 
  
 
