@@ -61,4 +61,11 @@ output:
  
 Дополнительно: `r  shiny::icon("readme")` <a href="https://disk.yandex.ru/i/ufuj_2Ks2FglpQ" title=> Franzese, Kam, pp. 19 - 39 </a>
 
+## Занятие 4
+ 
+Тема: метод разность разностей
+
+`r  shiny::icon("scroll")` <a href="reg_DiD_lecture.pdf" title=>Презентация: DiD</a> 
+
+`r  shiny::icon("scroll")` <a href="reg_seminar4.pdf" title=>Семинарский лист 4</a> 
 
