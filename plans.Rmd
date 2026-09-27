@@ -53,6 +53,8 @@ output:
 
 `r  shiny::icon("scroll")` <a href="reg_seminar3.pdf" title=>Семинарский лист 3</a> 
 
+`r  shiny::icon("scroll")` <a href="reg_seminar3_solution.pdf" title=>Семинарский лист 3. Решение</a> 
+
 `r  shiny::icon("desktop")` <a href="reg_lab2.ipynb" title=>Практикум 2</a> 
 
 Домашнее задание: 
