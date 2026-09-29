@@ -71,3 +71,10 @@ output:
 
 `r  shiny::icon("scroll")` <a href="reg_seminar4.pdf" title=>Семинарский лист 4</a> 
 
+## Занятие 5
+
+Тема: модель Неймана-Рубина; синтетический контроль
+
+`r  shiny::icon("scroll")` <a href="reg_lecture_causality_intro.pdf" title=>Презентация: модель Неймана-Рубина</a> 
+
+`r  shiny::icon("scroll")` <a href="reg_synth_control_lecture.pdf" title=>Презентация: синтетический контроль</a> 
