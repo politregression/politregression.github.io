@@ -43,6 +43,10 @@ output:
 
 `r  shiny::icon("scroll")` <a href="reg_seminar2.pdf" title=>Семинарский лист 2</a> 
 
+`r  shiny::icon("scroll")` <a href="reg_notes_2.pdf" title=>Конспект</a> 
+
+`r  shiny::icon("scroll")` <a href="FWL.pdf" title=>Теорема Фриша-Во-Ловелла с доказательством</a> 
+
 Домашнее задание (для тренировки): 
 
 `r  shiny::icon("scroll")` <a href="reg_hw2.pdf" title=>Домашнее задание 2</a> 
