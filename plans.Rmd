@@ -99,7 +99,7 @@ output:
 
 `r  shiny::icon("scroll")` <a href="reg_heteroskedasticity_lecture.pdf" title=>Гетероскедастичность и нетипичные наблюдения. Презентация с лекции</a> 
 
-`r  shiny::icon("desktop")` <a href="reg_lab4.ipynb" title=>Практикум 4</a> 
+`r  shiny::icon("desktop")` <a href="reg_lab4_UPD.ipynb" title=>Практикум 4</a> 
 
 ## Занятие 8
  
@@ -111,6 +111,10 @@ output:
 
 `r  shiny::icon("desktop")` <a href="data_ridge.dta" title=>data_ridge.dta</a> 
 
+## Занятие 9
+ 
+Тема: меры качества линейной регрессионной модели, сравнение альтернативных спецификаций
 
+`r  shiny::icon("scroll")` <a href="reg_lecture_goodnessoffit.pdf" title=> Презентация с лекции</a> 
 
 
