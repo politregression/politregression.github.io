@@ -95,7 +95,7 @@ output:
  
 Тема: мультиколлинеарность; гетероскедастичность; нетипичные наблюдения
 
-`r  shiny::icon("scroll")` <a href="reg_multicollinearity_lecture.pdf" title=>Мультиколлинеарность. Презентация с лекции</a> 
+`r  shiny::icon("scroll")` <a href="reg_multicollinearity.pdf" title=>Мультиколлинеарность. Презентация с лекции</a> 
 
 `r  shiny::icon("scroll")` <a href="reg_heteroskedasticity_lecture.pdf" title=>Гетероскедастичность и нетипичные наблюдения. Презентация с лекции</a> 
 
@@ -115,6 +115,6 @@ output:
  
 Тема: меры качества линейной регрессионной модели, сравнение альтернативных спецификаций
 
-`r  shiny::icon("scroll")` <a href="reg_lecture_goodnessoffit.pdf" title=> Презентация с лекции</a> 
+`r  shiny::icon("scroll")` <a href="reg_lecture_goodnessoffit_.pdf" title=> Презентация с лекции</a> 
 
 
