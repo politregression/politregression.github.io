@@ -117,4 +117,10 @@ output:
 
 `r  shiny::icon("scroll")` <a href="reg_lecture_goodnessoffit_.pdf" title=> Презентация с лекции</a> 
 
+## Занятие 10
+ 
+Тема: модели бинарного выбора
+
+`r  shiny::icon("scroll")` <a href="reg_BCM.pdf" title=> Презентация с лекции</a> 
+
 
