@@ -123,4 +123,18 @@ output:
 
 `r  shiny::icon("scroll")` <a href="reg_BCM.pdf" title=> Презентация с лекции</a> 
 
+`r  shiny::icon("scroll")` <a href="reg_hypotheses.pdf" title=>Понятия из проверки стат. гипотез</a>
+
+## Занятие 11
+ 
+Тема: модели бинарного выбора
+
+`r  shiny::icon("scroll")` <a href="reg_seminar7_2026.pdf" title=>Семинарский лист 7</a>
+
+`r  shiny::icon("desktop")` <a href="reg_lab6.ipynb" title=>Практикум 6</a> 
+
+`r  shiny::icon("desktop")` <a href="lab_logit.dta" title=>lab_logit.dta</a> 
+
+`r  shiny::icon("desktop") <a href="reg_BCM_lab.pdf" title=> Практикум 7</a> 
+
 
