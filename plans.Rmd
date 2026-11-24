@@ -135,6 +135,6 @@ output:
 
 `r  shiny::icon("desktop")` <a href="lab_logit.dta" title=>lab_logit.dta</a> 
 
-`r  shiny::icon("desktop") <a href="reg_BCM_lab.pdf" title=> Практикум 7</a> 
+`r  shiny::icon("desktop")` <a href="reg_BCM_lab.pdf" title=> Практикум 7</a> 
 
 
